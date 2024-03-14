@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\northwindbcontext\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\northwindbcontext\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|c:\\users\\user\\source\\repos\\assignment2\\assignment2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{813D2570-3A6E-4D53-8921-81E396A9C15E}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\NorthwinDbContext\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "assignment2\\NorthwinDbContext\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\NorthwinDbContext\\NorthwindContext.cs",
+              "RelativeToolTip": "assignment2\\NorthwinDbContext\\NorthwindContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA6wB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:01:08.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "assignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Program.cs",
+              "RelativeToolTip": "assignment2\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:41:47.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "assignment2\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "assignment2\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:44:23.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "assignment2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "assignment2\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAABUAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:52:16.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T06:31:05.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "assignment2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Models\\Product.cs",
+              "RelativeToolTip": "assignment2\\Models\\Product.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:44:26.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T07:28:25.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\appsettings.json",
+              "RelativeDocumentMoniker": "assignment2\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\appsettings.json*",
+              "RelativeToolTip": "assignment2\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T06:50:40.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:39:30.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T11:14:37.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAHMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:45:02.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "assignment2\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "assignment2\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:05:57.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T10:11:50.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAIBJwCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T07:30:11.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T10:10:00.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "assignment2\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T14:47:04.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T06:34:39.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "assignment2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\assignment2\\assignment2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "assignment2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T06:32:05.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
